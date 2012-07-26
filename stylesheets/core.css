@@ -1,9 +1,8 @@
 @import url("screen.css");
-@import url("non-screen.css") handheld;
-@import url("non-screen.css") only screen and (max-device-width:640px);
 .big {
  font-size: 3em;
 }
 .center {
  text-align: center;
 }
+
