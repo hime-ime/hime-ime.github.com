@@ -240,6 +240,9 @@ blockquote {
   background: transparent url('../images/blockquote-gfx.png') 0 4px no-repeat;
 }
 
+h1 {
+  text-align: center;
+}
 
 
 
